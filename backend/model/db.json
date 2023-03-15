@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "1",
+        "acronym": "2B",
+        "definition": "To be"
+    },
+    {
+        "_id": "2",
+        "acronym": "2EZ",
+        "definition": "Too Easy"
+    },
+    {
+        "_id": "3",
+        "acronym": "2G2BT",
+        "definition": "Too good to be true"
+    },
+    {
+        "_id": "4",
+        "acronym": "AE",
+        "definition": "To be"
+    },
+    {
+        "_id": "5",
+        "acronym": "AEX",
+        "definition": "Too Easy"
+    },
+    {
+        "_id": "6",
+        "acronym": "YVR",
+        "definition": "Too good to be true"
+    },
+    {
+        "_id": "7",
+        "acronym": "2B",
+        "definition": "To be"
+    },
+    {
+        "_id": "8",
+        "acronym": "2EZ",
+        "definition": "Too Easy"
+    },
+    {
+        "_id": "9",
+        "acronym": "2G2BT",
+        "definition": "Too good to be true"
+    },
+    {
+        "_id": "10",
+        "acronym": "AE",
+        "definition": "To be"
+    },
+    {
+        "_id": "11",
+        "acronym": "AEX",
+        "definition": "Too Easy"
+    },
+    {
+        "_id": "12",
+        "acronym": "YVR",
+        "definition": "Too good to be true"
+    }
+]
