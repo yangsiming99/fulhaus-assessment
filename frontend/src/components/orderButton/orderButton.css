@@ -1,0 +1,17 @@
+.orderButton {
+    position: absolute;
+    height: 4em;
+    width: 4em;
+    border-radius: 25px;
+    background-color: rgb(228, 228, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.5em;
+    top: 0px;
+    right: 0px;
+}
+
+.orderButton:hover {
+    background-color: rgb(161, 161, 161);
+}

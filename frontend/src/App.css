@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.productList {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100vw;
+  justify-content: space-around;
+}
+
+@media only screen and (min-width: 992px) {
+  .App {
+    flex-direction: row;
+  }
+} 

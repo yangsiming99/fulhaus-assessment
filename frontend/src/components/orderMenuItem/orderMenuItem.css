@@ -1,0 +1,23 @@
+.orderMenuItem {
+    display: flex;
+    flex-direction: row;
+    margin: 0.5em;
+}
+
+.omimg {
+    max-height: 125px;
+    min-height: 125px;
+    min-width: 125px;
+    max-width: 125px;
+    object-fit: cover;
+}
+
+.productInfo {
+    position:relative;
+}
+
+.removeButton {
+    position: absolute;
+    right:0;
+    bottom: 0;
+}
